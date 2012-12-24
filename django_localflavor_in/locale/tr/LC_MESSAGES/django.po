@@ -1,0 +1,34 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# Metin Amiroff <amiroff@gmail.com>, 2011, 2012.
+# Murat Çorlu <muratcorlu@gmail.com>, 2012.
+# Murat Sahin <martinamca@gmail.com>, 2011, 2012.
+# Ozan  <uobasar@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-in\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:36-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Murat Çorlu <muratcorlu@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: forms.py:41
+msgid "Enter a zip code in the format XXXXXX or XXX XXX."
+msgstr "XXXXXX veya XXX XXX biçiminde bir posta kodu girin."
+
+#: forms.py:64
+msgid "Enter an Indian state or territory."
+msgstr "Bir Hintli eyaleti veya bölgesi girin."
+
+#: forms.py:103
+msgid "Phone numbers must be in 02X-8X or 03X-7X or 04X-6X format."
+msgstr ""
+"Telefon numaraları 02X-8X veya 03X-7X veya 04X-6X formatında olmalıdır."
